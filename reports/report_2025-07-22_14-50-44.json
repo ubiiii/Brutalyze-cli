@@ -1,0 +1,41 @@
+{
+    "summary": {
+        "total_failed_ips": 3,
+        "total_brute_force_ips": 0
+    },
+    "attempts_by_ip": [
+        {
+            "ip": "192.168.1.10",
+            "failed_attempts": 5,
+            "brute_force": false,
+            "location": {
+                "ip": "192.168.1.10",
+                "country": "Private IP",
+                "region": "-",
+                "city": "-"
+            }
+        },
+        {
+            "ip": "203.0.113.25",
+            "failed_attempts": 3,
+            "brute_force": false,
+            "location": {
+                "ip": "203.0.113.25",
+                "country": "United States",
+                "region": "New York",
+                "city": "New York"
+            }
+        },
+        {
+            "ip": "198.51.100.77",
+            "failed_attempts": 6,
+            "brute_force": false,
+            "location": {
+                "ip": "198.51.100.77",
+                "country": "Romania",
+                "region": "Bucure\u0219ti",
+                "city": "Bucharest"
+            }
+        }
+    ]
+}
